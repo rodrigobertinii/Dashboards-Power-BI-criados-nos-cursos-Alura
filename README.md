@@ -1,4 +1,4 @@
-# Dashboards Criados nos Cursos Alura
+# Dashboards Criados nos Cursos Alura - Power BI
 
 Este repositório contém dashboards desenvolvidos durante os cursos de Power BI na Alura.
 
